@@ -1,0 +1,4 @@
+- Getting started
+  - [Introduction](/)
+  - [Request format](request-format.md)
+  - [Obtaining a token](obtain-token.md)
